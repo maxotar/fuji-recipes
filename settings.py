@@ -53,4 +53,6 @@ SKIP_PAGES = [
     "2021-04-05__Kodachrome II &.html",
     "2021-06-21__Expired Slide &.html",
     "2022-10-13__KodaNeg VC & NC.html",
+    "2021-02-22__Faded Negative.html",
+    "2019-06-15__Faded Color.html",
 ]
