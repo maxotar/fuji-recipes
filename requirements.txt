@@ -1,0 +1,6 @@
+beautifulsoup4
+black
+ipykernel
+matplotlib
+pandas
+requests

@@ -1,13 +1,14 @@
-DIR_PAGES = "./pages"
-NAME_INDEX = "index.html"
-PATH_INDEX = f"./{NAME_INDEX}"
 URL_INDEX = "https://fujixweekly.com/fujifilm-x-trans-iv-recipes/"
-PATH_INDEX_JSON = "./index.json"
-PATH_MANUAL_JSON = "./manual.json"
-PATH_RECIPES_JSON = "./recipes.json"
-PATH_RECIPES_LONG_CSV = "./recipes_long.csv"
-PATH_RECIPES_SHORT_CSV = "./recipes_short.csv"
-PATH_RECIPES_TABLE_CSV = "./recipes_table.csv"
+
+DIR_PAGES = "./pages"
+DIR_RECIPES = "./recipes"
+PATH_INDEX = f"{DIR_RECIPES}/index.html"
+PATH_INDEX_JSON = f"{DIR_RECIPES}/index.json"
+PATH_MANUAL_JSON = f"{DIR_RECIPES}/manual.json"
+PATH_RECIPES_JSON = f"{DIR_RECIPES}/recipes.json"
+PATH_RECIPES_LONG_CSV = f"{DIR_RECIPES}/recipes_long.csv"
+PATH_RECIPES_SHORT_CSV = f"{DIR_RECIPES}/recipes_short.csv"
+PATH_RECIPES_TABLE_CSV = f"{DIR_RECIPES}/recipes_table.csv"
 
 HEADERS = {
     "Access-Control-Allow-Origin": "*",
@@ -16,6 +17,7 @@ HEADERS = {
     "Access-Control-Max-Age": "3600",
     "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0",
 }
+
 SIMULATIONS = [
     "provia",
     "velvia",
@@ -30,6 +32,7 @@ SIMULATIONS = [
     "monochrome",
     "sepia",
 ]
+
 PROPERTIES = [
     "clarity",
     "color",
@@ -48,6 +51,7 @@ PROPERTIES = [
     "toning",
     "white balance",
 ]
+
 SKIP_PAGES = [
     "2020-02-25__Vintage Color Fade.html",
     "2020-07-01__Sepia.html",
