@@ -1,0 +1,1964 @@
+id,recipe short
+2022-11-08__Classic Kodak,"simulation: classic chrome
+grain: strong, small or large
+wb: shade
+wb shift: -1 red, 2 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: 1.0
+color: 4
+sharpness: -1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-10-31__Chrome Slide,"simulation: classic negative
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: -3 red, 1 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: 1.0
+color: 4
+noise reduction: -4
+clarity: 3
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2022-10-21__Cinematic Negative,"simulation: eterna
+grain: weak, small or large
+color chrome effect: strong
+wb: incandescent
+wb shift: 8 red, -9 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: 2.0
+color: 4
+sharpness: -1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2022-10-13__KodaNeg NC (without filter),"simulation: provia
+grain: weak, small
+color chrome effect: strong
+wb: auto
+wb shift: 6 red, -6 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 0.5
+color: -4
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-10-13__KodaNeg VC (without filter),"simulation: provia
+grain: weak, small
+color chrome effect: strong
+wb: auto
+wb shift: 6 red, -6 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 0.5
+color: 4
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-10-05__Fujichrome Provia 100F,"simulation: classic chrome
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: -2 red, 5 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 3.0
+color: 4
+sharpness: -1
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-09-27__Analog Gold,"simulation: eterna bleach bypass
+grain: strong, small
+color chrome effect: strong
+wb: daylight
+wb shift: 4 red, -9 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: 1.5
+color: 3
+sharpness: -2
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-09-26__September Summer,"simulation: classic negative
+grain: weak, small
+color chrome effect blue: weak
+wb: 5500k
+wb shift: 3 red, -7 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: -1.0
+color: 1
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: 0 to +1"
+2022-09-07__Vintage Analog,"simulation: classic negative
+grain: strong, small
+color chrome effect blue: weak
+wb: 9100k
+wb shift: -4 red, 4 blue
+dynamic range: dr200
+highlight: 2.0
+color: -4
+sharpness: -1
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: -1/3 to +1/3"
+2022-09-01__GAF 500,"simulation: eterna
+grain: strong, large
+color chrome effect blue: strong
+wb: 2900k
+wb shift: 9 red, -9 blue
+dynamic range: dr100
+highlight: 2.0
+shadow: 4.0
+sharpness: -3
+noise reduction: -4
+clarity: -2
+iso: 12800 to 12800
+exposure compensation: -2/3 to +2/3"
+2022-08-29__Vintage Kodacolor,"simulation: classic chrome
+grain: strong, small or large
+wb: 9100k
+wb shift: -4 red, 4 blue
+dynamic range: dr200
+highlight: 2.0
+color: -4
+sharpness: -1
+noise reduction: -4
+iso: 160 to 12800
+exposure compensation: -1/3 to +1/3"
+2022-08-23__Kodak Max 800,"simulation: classic negative
+grain: strong, small
+color chrome effect: strong
+wb: 7300k
+wb shift: -5 red, -2 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: 1.0
+color: -1
+sharpness: -2
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2022-08-17__Fujicolor Analog,"simulation: classic negative
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 6900k
+wb shift: -5 red, 5 blue
+dynamic range: dr400
+highlight: -1.0
+color: -3
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: 0 to +1"
+2022-08-04__Pacific Blues,"simulation: classic negative
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 5800k
+wb shift: 1 red, -3 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: 3.0
+color: 4
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2022-08-02__Arizona Analog,"simulation: eterna
+grain: strong, small
+color chrome effect: weak
+color chrome effect blue: weak
+wb: daylight
+wb shift: 6 red, -3 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 3.0
+color: -2
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-07-21__Pure Negative,"simulation: pro neg. std
+grain: weak, small
+color chrome effect: weak
+wb: auto
+wb shift: 1 red, -2 blue
+dynamic range: dr200
+highlight: 1.0
+shadow: 2.0
+color: -4
+sharpness: 1
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: 0 to +1/3"
+2022-06-29__SantaColor,"simulation: eterna
+grain: weak, small
+color chrome effect: strong
+wb: 5100k
+wb shift: 5 red, -3 blue
+dynamic range: dr200
+highlight: -2.0
+shadow: 4.0
+color: 4
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2022-06-28__Nostalgic Print,"simulation: pro neg. std
+grain: strong, small
+color chrome effect: weak
+color chrome effect blue: weak
+wb: 4700k
+wb shift: -3 red, -4 blue
+dynamic range: dr400
+highlight: -2.0
+color: -4
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2022-06-15__Low Key,"simulation: classic negative
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: daylight
+wb shift: -2 red, -4 blue
+dynamic range: dr200
+highlight: 1.0
+shadow: 2.0
+color: 4
+sharpness: -1
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: -2/3 to -1 1/3"
+2022-06-13__Pushed CineStill 800T (X100V + X-Pro3),"simulation: eterna
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 7700k
+wb shift: -9 red, 7 blue
+dynamic range: dr400
+highlight: 3.0
+shadow: 1.0
+color: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: -1/3 to +2/3"
+2022-06-11__Reggie's Portra,"simulation: classic chrome
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: auto
+wb shift: 2 red, -4 blue
+dynamic range: dr-auto
+highlight: -1.0
+shadow: -1.0
+color: 2
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-06-10__Bright Kodak,"simulation: classic chrome
+grain: strong, large
+wb: daylight
+wb shift: 3 red, -7 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: -2.0
+color: 4
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1 to +1 2/3"
+2022-05-18__Pushed CineStill 800T,"simulation: eterna bleach bypass
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 7700k
+wb shift: -9 red, 5 blue
+dynamic range: dr400
+highlight: -0.5
+shadow: -1.5
+color: 3
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: -1/3 to +2/3"
+2022-05-15__Vibrant Velvia,"simulation: velvia
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: -1 red, 1 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: -1.0
+color: 4
+noise reduction: -4
+clarity: 4
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2022-05-06__Fujicolor Natura 1600,"simulation: classic negative
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 5500k
+wb shift: -1 red, -2 blue
+dynamic range: dr400
+highlight: -1.5
+shadow: 1.5
+color: -2
+sharpness: -2
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-04-20__CineStill 50D,"simulation: astia
+grain: weak, small
+color chrome effect: strong
+wb: 6800k
+wb shift: -5 red, -3 blue
+dynamic range: dr200
+highlight: -1.0
+color: -4
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2022-04-11__Kodacolor VR,"simulation: classic chrome
+wb: 10000k
+wb shift: -7 red, 8 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 1.0
+color: 2
+sharpness: -1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-04-05__Moody Monochrome,"simulation: acros+y
+grain: strong, large
+wb: fluorescent 3
+wb shift: -4 red, -9 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 4.0
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 3200 to 3200
+exposure compensation: +1/3 to +1"
+2022-04-04__Nostalgia Color,"simulation: classic negative
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: weak
+wb: 6700k
+wb shift: -4 red, -1 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 3.0
+color: -2
+sharpness: -2
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2022-03-29__Kodak Brilliance,"simulation: classic chrome
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: daylight
+wb shift: 2 red, -1 blue
+dynamic range: dr200
+highlight: 4.0
+shadow: -2.0
+color: 4
+sharpness: -1
+noise reduction: -4
+clarity: 2
+iso: 160 to 6400
+exposure compensation: -1 to 0"
+2022-03-23__Ilford HP5 Plus 400,"simulation: monochrome
+grain: strong, large
+wb: daylight
+wb shift: 1 red, -8 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 1.0
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: -2/3 to +2/3"
+2022-03-20__Serr's 500T,"simulation: classic chrome
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 3200k
+wb shift: -1 red, 4 blue
+dynamic range: dr-auto
+highlight: -2.0
+shadow: -1.0
+color: -1
+sharpness: -1
+noise reduction: -2
+iso: 160 to 6400
+exposure compensation: -1/3 to +1/3"
+2022-03-05__Old Ektachrome,"simulation: classic chrome
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: weak
+wb: daylight
+wb shift: 3 red, 2 blue
+dynamic range: dr400
+highlight: 2.0
+shadow: 1.0
+color: 3
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2022-02-17__Standard Provia,"simulation: provia
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: daylight
+wb shift: -3 red, 0 blue
+dynamic range: dr400
+highlight: 2.0
+shadow: 1.0
+color: 2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2022-02-14__Agfa Ultra 100,"simulation: classic negative
+grain: weak, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: -2 red, 3 blue
+dynamic range: dr400
+highlight: 2.0
+shadow: -2.0
+color: 2
+sharpness: -1
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: 0 to +1"
+2022-02-07__Vintage Color v2,"simulation: classic negative
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 7350k
+wb shift: -1 red, -4 blue
+dynamic range: dr400
+highlight: 2.0
+shadow: 3.0
+color: -1
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: 0 to +1"
+2022-01-27__Vintage Color,"simulation: eterna
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 7350k
+wb shift: -1 red, -4 blue
+dynamic range: dr200
+highlight: 2.0
+shadow: 3.0
+color: 1
+sharpness: -2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2022-01-21__Negative Print,"simulation: eterna
+grain: weak, small or large
+wb: fluorescent 3
+wb shift: -2 red, -7 blue
+dynamic range: dr200
+highlight: 2.0
+shadow: 4.0
+color: 4
+sharpness: -1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2022-01-18__Kodak Gold v2,"simulation: classic chrome
+grain: strong, large
+color chrome effect: weak
+wb: 5800k
+wb shift: 2 red, 4 blue
+dynamic range: dr200
+shadow: -1.0
+color: -1
+sharpness: -1
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2022-01-10__Old Kodak,"simulation: classic chrome
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: auto white priority
+wb shift: 1 red, -6 blue
+dynamic range: dr400
+highlight: 3.5
+shadow: -0.5
+color: 3
+sharpness: -2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: -1/3 to +1/3"
+2022-01-02__Ilford Pan F Plus 50,"simulation: monochrome
+grain: weak, large
+wb: daylight
+wb shift: 1 red, -6 blue
+dynamic range: dr100
+shadow: 1.0
+noise reduction: -4
+clarity: 2
+iso: 160 to 6400
+exposure compensation: -1/3 to +1/3"
+2021-12-23__Fujicolor NPH,"simulation: provia
+grain: weak, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 5250k
+wb shift: -3 red, -4 blue
+dynamic range: dr100
+highlight: -1.0
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-12-14__Kodak High Definition Plus 200,"simulation: classic chrome
+grain: weak, small
+color chrome effect: weak
+color chrome effect blue: weak
+wb: 4800k
+wb shift: -2 red, -7 blue
+dynamic range: dr400
+shadow: 1.0
+color: 2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-11-30__Vintage Negative,"simulation: classic negative
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 10000k
+wb shift: -6 red, -5 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: 2.0
+color: -3
+sharpness: -4
+noise reduction: -4
+clarity: -5
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-11-30__Kodachrome 25,"simulation: classic chrome
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: 2 red, -4 blue
+dynamic range: dr400
+highlight: 0.5
+shadow: -0.5
+color: 1
+sharpness: 3
+noise reduction: -4
+clarity: 3
+iso: 160 to 1600
+exposure compensation: 0 to +2/3"
+2021-11-23__Retro Gold Low Contrast,"simulation: classic chrome
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: fluorescent 3
+wb shift: 4 red, -6 blue
+dynamic range: dr400
+shadow: -2.0
+color: 4
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: 0 to -2/3"
+2021-11-22__Retro Gold,"simulation: classic chrome
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: fluorescent 3
+wb shift: 4 red, -6 blue
+dynamic range: dr400
+highlight: 4.0
+shadow: 2.0
+color: 4
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: 0 to -2/3"
+2021-11-17__Porto 200,"simulation: pro neg. std
+grain: weak, small or large
+wb: shade
+wb shift: 0 red, -4 blue
+dynamic range: dr200
+highlight: -1.0
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-11-11__Eterna Bleach Bypass,"simulation: pro neg. std
+grain: weak, small or large
+wb: incandescent
+wb shift: 8 red, -9 blue
+dynamic range: dr400
+highlight: 3.0
+shadow: 3.0
+color: -4
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-11-05__Ferrania Solaris FG 400,"simulation: eterna bleach bypass
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: 5200k
+wb shift: 1 red, -6 blue
+dynamic range: dr400
+shadow: -2.0
+color: 2
+sharpness: -2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2021-11-01__Elite Chrome 200,"simulation: classic chrome
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: weak
+wb: daylight
+wb shift: -1 red, -3 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 1.0
+color: -1
+sharpness: -1
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-10-31__Eterna v3,"simulation: eterna
+grain: strong, small or large
+color chrome effect: strong
+wb: auto
+wb shift: -1 red, -1 blue
+dynamic range: dr400
+highlight: 2.0
+shadow: 3.0
+color: 4
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-10-18__Muted Color,"simulation: eterna bleach bypass
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: auto
+wb shift: 3 red, -8 blue
+dynamic range: dr400
+highlight: -0.5
+shadow: 1.0
+color: -4
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-10-13__Silver Summer,"simulation: eterna bleach bypass
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 5300k
+wb shift: -3 red, -6 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 1.0
+color: 4
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2021-10-11__Pulled Fujicolor Superia,"simulation: classic negative
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: -4 red, -2 blue
+dynamic range: d-range priority strong
+color: 3
+sharpness: -2
+noise reduction: -4
+clarity: 2
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-09-22__Portra-Style,"simulation: classic chrome
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: 5000k
+wb shift: 2 red, -6 blue
+dynamic range: d-range priority auto
+color: 1
+sharpness: -2
+noise reduction: -4
+clarity: 3
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-09-15__Scanned Superia,"simulation: classic negative
+grain: weak, small
+color chrome effect: weak
+color chrome effect blue: weak
+wb: daylight
+wb shift: -2 red, 3 blue
+dynamic range: d-range priority auto
+color: 3
+sharpness: -3
+noise reduction: -4
+clarity: 3
+iso: 160 to 6400
+exposure compensation: -1/3 to +1/3"
+2021-08-25__Monochrome Negative,"simulation: acros
+grain: strong, small
+wb: daylight
+wb shift: 0 red, 0 blue
+dynamic range: dr400
+highlight: 3.0
+sharpness: -2
+noise reduction: -4
+iso: 160 to 12800
+exposure compensation: 0 to -2/3"
+2021-08-17__Kodak Portra 400 v2,"simulation: classic chrome
+grain: strong, small or large
+color chrome effect: strong
+wb: daylight
+wb shift: 2 red, -6 blue
+dynamic range: dr-auto
+highlight: -1.0
+shadow: -1.0
+color: 2
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2021-08-03__AgfaChrome RS 100,"simulation: classic negative
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: -3 red, 5 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: -1.0
+color: 2
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: -1/3 to +1/3"
+2021-07-26__Fujicolor Super HG v2,"simulation: classic negative
+grain: weak, large
+color chrome effect: weak
+color chrome effect blue: strong
+wb: auto white priority
+wb shift: -3 red, -1 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 1.0
+color: 2
+noise reduction: -4
+clarity: 2
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2021-07-26__Super HG Astia,"simulation: astia
+grain: weak, small
+color chrome effect: weak
+color chrome effect blue: weak
+wb: fluorescent 2
+wb shift: -3 red, -1 blue
+dynamic range: dr400
+highlight: 2.0
+shadow: 1.0
+color: 2
+sharpness: -1
+noise reduction: -4
+clarity: 2
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2021-07-24__Fujicolor Super HG,"simulation: classic negative
+grain: weak, large
+color chrome effect: weak
+color chrome effect blue: strong
+wb: fluorescent 2
+wb shift: -3 red, -1 blue
+dynamic range: dr400
+shadow: 1.0
+color: 2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-07-06__Kodak Portra 400 Warm,"simulation: classic chrome
+grain: strong, small
+color chrome effect: strong
+wb: 5500k
+wb shift: 0 red, -7 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: -2.0
+color: 2
+sharpness: -2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +2/3 to +1 1/3"
+2021-06-21__Expired Slide,"simulation: velvia
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 5500k
+wb shift: 7 red, -2 blue
+dynamic range: dr400
+highlight: 2.0
+shadow: -1.0
+color: -4
+sharpness: -2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: -1/3 to +2/3"
+2021-06-21__Expired Slide V2,"simulation: velvia
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 5000k
+wb shift: 8 red, 0 blue
+dynamic range: dr400
+highlight: 2.0
+shadow: -1.0
+color: -4
+sharpness: -2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: -1/3 to +2/3"
+2021-06-01__Positive Film,"simulation: classic negative
+grain: weak, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 2950k
+wb shift: 7 red, -9 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: 2.0
+color: 4
+sharpness: -2
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-05-30__Fujicolor NPS 160 Pulled,"simulation: classic negative
+grain: weak, small
+color chrome effect: weak
+color chrome effect blue: strong
+wb: auto
+wb shift: -1 red, -4 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: -2.0
+color: -4
+sharpness: 1
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +2/3 to +1 1/3"
+2021-05-25__Fujicolor Pro 400H,"simulation: pro neg. hi
+color chrome effect: strong
+wb: daylight
+wb shift: 1 red, -3 blue
+dynamic range: dr400
+color: 1
+sharpness: -3
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-05-24__Fujicolor Pro 160NS,"simulation: pro neg. hi
+wb: daylight
+wb shift: 0 red, 0 blue
+dynamic range: dr400
+sharpness: -3
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-05-19__Grizzly Ride,"simulation: eterna bleach bypass
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 6990k
+wb shift: 3 red, -7 blue
+dynamic range: dr200
+shadow: 2.5
+color: -2
+sharpness: -4
+noise reduction: -4
+clarity: -5
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-05-17__Kodak Portra 800 v2,"simulation: classic chrome
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: 3 red, -6 blue
+dynamic range: dr400
+shadow: -2.0
+color: -4
+sharpness: -2
+noise reduction: -4
+clarity: -5
+iso: 160 to 6400
+exposure compensation: -2/3 to +1"
+2021-05-16__Fujicolor Pro 400H,"simulation: classic negative
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: 4900k
+wb shift: 0 red, -4 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: 4.0
+color: 4
+sharpness: -2
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: +1 to +1 2/3"
+2021-05-13__Fujicolor C200,"simulation: classic negative
+grain: weak, large
+color chrome effect: weak
+wb: daylight
+wb shift: 0 red, -3 blue
+dynamic range: dr400
+highlight: 0.5
+shadow: -0.5
+color: 2
+sharpness: -3
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-05-09__Fujicolor Negative,"simulation: classic negative
+grain: strong, small
+wb: auto
+wb shift: -1 red, -6 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: 3.0
+color: -4
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2021-05-03__Xpro '62,"simulation: classic negative
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: auto
+wb shift: -3 red, -9 blue
+dynamic range: dr400
+highlight: 3.0
+color: 4
+sharpness: -4
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: 0 to +1/3"
+2021-05-02__Chrome Bypass,"simulation: pro neg. std
+grain: strong, small or large
+wb: auto
+wb shift: 2 red, -5 blue
+dynamic range: dr200
+highlight: 3.0
+shadow: 4.0
+color: -4
+sharpness: -1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-04-27__Eterna v2,"simulation: eterna
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: auto white priority
+wb shift: 0 red, 0 blue
+dynamic range: dr400
+highlight: 3.0
+shadow: 2.0
+color: 3
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-04-26__Ektachrome 320T,"simulation: eterna bleach bypass
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: auto ambience priority
+wb shift: -6 red, -5 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: -2.0
+color: 4
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2021-04-21__Vintage Vibes,"simulation: classic negative
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: 5200k
+wb shift: 1 red, -6 blue
+dynamic range: dr400
+shadow: -2.0
+color: 2
+sharpness: -2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2021-04-11__LomoChrome Metropolis,"simulation: eterna bleach bypass
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: auto white priority
+wb shift: 1 red, -7 blue
+dynamic range: dr200
+highlight: 1.0
+shadow: 2.5
+color: -2
+sharpness: -1
+noise reduction: -4
+clarity: 4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2021-04-05__Kodachrome II,"simulation: classic chrome
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: auto
+wb shift: 3 red, -4 blue
+dynamic range: dr200
+highlight: 1.0
+shadow: 2.0
+color: 1
+sharpness: 1
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-04-05__Kodachrome II V2,"simulation: classic chrome
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: auto white priority
+wb shift: 3 red, -5 blue
+dynamic range: dr200
+highlight: 1.0
+shadow: 1.5
+color: 1
+sharpness: 1
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2021-02-23__Creamy Color,"simulation: classic negative
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: 8700k
+wb shift: 4 red, 6 blue
+dynamic range: dr400
+highlight: 4.0
+shadow: 4.0
+color: -4
+sharpness: -4
+noise reduction: -4
+clarity: -5
+iso: 160 to 6400
+exposure compensation: +1/3"
+2021-02-16__Velvia v2,"simulation: velvia
+grain: weak, small or large
+color chrome effect: strong
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr200
+highlight: -1.0
+shadow: -1.0
+color: 4
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2021-02-07__Nostalgic Negative,"simulation: classic chrome
+grain: weak, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: auto
+wb shift: 3 red, -5 blue
+dynamic range: dr200
+highlight: -1.0
+color: 4
+noise reduction: -4
+clarity: -5
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2021-01-27__Amanda's Classic Negative,"simulation: classic negative
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr200
+highlight: 1.0
+shadow: 1.5
+color: 3
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2021-01-24__Ilford Ortho Plus 80,"simulation: monochrome+g
+mono wc: 1, mono mg: 0
+grain: weak, small
+color chrome effect: strong
+wb: 7000k
+wb shift: -5 red, 0 blue
+dynamic range: dr400
+highlight: 2.0
+shadow: 3.0
+sharpness: 2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2021-01-11__Classic Monochrome,"simulation: monochrome
+mono wc: 1, mono mg: 0
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr100
+highlight: 4.0
+shadow: 2.0
+sharpness: 1
+noise reduction: -4
+clarity: 4
+iso: 160 to 12800
+exposure compensation: -1/3 to +1/3"
+2021-01-04__Color Negative 400,"simulation: classic negative
+grain: weak, large
+color chrome effect: weak
+color chrome effect blue: weak
+wb: auto
+wb shift: -2 red, -4 blue
+dynamic range: dr400
+shadow: 4.0
+color: 4
+noise reduction: -4
+clarity: -5
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2020-12-30__Kodak Portra 400 v2,"simulation: classic chrome
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: 5200k
+wb shift: 1 red, -6 blue
+dynamic range: dr400
+shadow: -2.0
+color: 2
+sharpness: -2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2020-12-07__Superia Premium 400,"simulation: classic negative
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: 4700k
+wb shift: 4 red, -3 blue
+dynamic range: dr200
+highlight: -2.0
+color: 4
+sharpness: -1
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2020-11-10__Superia Xtra 400,"simulation: classic negative
+grain: strong, small
+color chrome effect blue: strong
+wb: auto
+wb shift: 3 red, -5 blue
+dynamic range: dr400
+shadow: -1.0
+color: 4
+sharpness: -1
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: 0 to +1"
+2020-11-03__Kodak Portra 800,"simulation: classic chrome
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: weak
+wb: 5200k
+wb shift: 1 red, -5 blue
+dynamic range: dr400
+highlight: 1.0
+color: 3
+sharpness: -2
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2020-10-06__CineStill 800T,"simulation: eterna
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: fluorescent 3
+wb shift: -6 red, -4 blue
+dynamic range: dr400
+shadow: 2.0
+color: 4
+sharpness: -3
+noise reduction: -4
+clarity: -5
+iso: 160 to 6400
+exposure compensation: -1/3 to +2/3"
+2020-10-05__B&W Superia,"simulation: acros
+mono wc: 2, mono mg: 0
+grain: weak, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr400
+shadow: 2.0
+sharpness: -1
+noise reduction: -4
+clarity: -4
+iso: 160 to 12800
+exposure compensation: +1/3 to +2/3"
+2020-09-30__Nature Neon,"simulation: classic chrome
+grain: weak, small
+color chrome effect: weak
+color chrome effect blue: weak
+wb: fluorescent 1
+wb shift: 2 red, -5 blue
+dynamic range: dr400
+shadow: 2.0
+color: 3
+sharpness: -2
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2020-09-28__Agfa Vista 100,"simulation: classic negative
+grain: strong, small
+color chrome effect: weak
+color chrome effect blue: weak
+wb: 5600k
+wb shift: -4 red, -5 blue
+dynamic range: dr200
+highlight: 1.0
+shadow: -2.0
+color: 2
+noise reduction: -4
+clarity: 3
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2020-09-14__Kodachrome 1,"simulation: classic chrome
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: auto
+wb shift: 2 red, -4 blue
+dynamic range: dr400
+highlight: 4.0
+shadow: -2.0
+color: 4
+sharpness: -2
+noise reduction: -4
+clarity: 1
+iso: 160 to 6400
+exposure compensation: -1/3 to -1"
+2020-09-12__Bright Summer,"simulation: classic chrome
+color chrome effect: strong
+wb: 7100k
+wb shift: -4 red, -2 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: -2.0
+color: 4
+noise reduction: -4
+clarity: -5
+iso: 160 to 6400
+exposure compensation: +1 to +2"
+2020-09-09__Noir,"simulation: acros+g
+wb: 2500k
+wb shift: 9 red, 9 blue
+dynamic range: dr200
+highlight: 4.0
+shadow: 1.0
+sharpness: -4
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: -2/3 to +2/3"
+2020-08-31__Kodak T-Max 400,"simulation: monochrome
+mono wc: 2, mono mg: 0
+grain: strong, small
+color chrome effect: strong
+wb: daylight
+wb shift: 9 red, -9 blue
+dynamic range: dr200
+shadow: 3.0
+sharpness: 2
+noise reduction: -4
+clarity: 3
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2020-08-11__Black & White Infrared,"simulation: acros+r
+grain: strong, large
+wb: 2750k
+wb shift: -5 red, 9 blue
+dynamic range: dr200
+highlight: 4.0
+shadow: 3.0
+sharpness: -4
+noise reduction: -4
+clarity: 5
+iso: 160 to 6400
+exposure compensation: 0 to 0"
+2020-08-10__Kodak Ektar 100,"simulation: classic chrome
+color chrome effect: strong
+color chrome effect blue: weak
+wb: 6050k
+wb shift: 3 red, 0 blue
+dynamic range: dr-auto
+highlight: 1.0
+shadow: -2.0
+color: 4
+noise reduction: -4
+clarity: 3
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2020-08-09__Kodak Ultramax 400,"simulation: classic chrome
+grain: strong, large
+color chrome effect: weak
+color chrome effect blue: weak
+wb: auto
+wb shift: 1 red, -5 blue
+dynamic range: dr-auto
+highlight: 1.0
+shadow: 1.0
+color: 4
+noise reduction: -4
+clarity: 3
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2020-07-27__Fujicolor Superia 800,"simulation: classic negative
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: weak
+wb: daylight
+wb shift: -1 red, -3 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 1.0
+color: -1
+sharpness: -1
+noise reduction: -4
+clarity: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2020-07-18__The Rockwell,"simulation: velvia
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: auto
+wb shift: 1 red, -1 blue
+dynamic range: dr200
+highlight: -1.0
+shadow: -1.0
+color: 4
+sharpness: 4
+noise reduction: -4
+clarity: 5
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2020-07-08__Bleach Bypass,"simulation: classic negative
+grain: strong, large
+color chrome effect: weak
+wb: daylight
+wb shift: -1 red, 1 blue
+dynamic range: dr100
+highlight: 2.0
+shadow: 4.0
+color: -4
+sharpness: -1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2020-06-29__Fujicolor Superia 1600,"simulation: classic negative
+grain: strong, large
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: 3 red, 1 blue
+dynamic range: dr400
+shadow: 2.0
+color: -3
+sharpness: -1
+noise reduction: -4
+clarity: -4
+iso: 1600 to 6400
+exposure compensation: 0 to 0"
+2020-06-20__Fujicolor Reala 100,"simulation: classic negative
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: strong
+wb: daylight
+wb shift: 0 red, 0 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: -1.0
+sharpness: -2
+noise reduction: -4
+clarity: -3
+iso: 160 to 6400
+exposure compensation: 0 to +1"
+2020-06-18__Kodak Tri-X 400,"simulation: acros
+grain: strong, large
+color chrome effect: strong
+wb: daylight
+wb shift: 9 red, -9 blue
+dynamic range: dr200
+shadow: 3.0
+sharpness: 1
+noise reduction: -4
+clarity: 4
+iso: 1600 to 12800
+exposure compensation: +1/3 to +1"
+2020-06-10__Kodak Portra 400,"simulation: classic chrome
+grain: strong, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: daylight
+wb shift: 3 red, -5 blue
+dynamic range: dr-auto
+highlight: -1.0
+shadow: -2.0
+color: 2
+sharpness: -2
+noise reduction: -4
+clarity: 2
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2020-06-09__Fujicolor Superia 100,"simulation: classic negative
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: daylight
+wb shift: 0 red, -1 blue
+dynamic range: dr-auto
+highlight: -1.0
+shadow: -2.0
+color: 1
+sharpness: -2
+noise reduction: -4
+clarity: -2
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2020-06-08__Cine Teal,"simulation: eterna
+grain: weak, large
+color chrome effect: weak
+color chrome effect blue: strong
+wb: 4550k
+wb shift: 1 red, -9 blue
+dynamic range: dr200
+highlight: -2.0
+shadow: 4.0
+color: -1
+sharpness: -2
+noise reduction: -4
+clarity: -5
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2020-06-01__Classic Negative,"simulation: classic negative
+grain: weak, large
+color chrome effect: weak
+color chrome effect blue: weak
+wb: auto
+wb shift: 4 red, -4 blue
+dynamic range: dr200
+highlight: 1.0
+color: 3
+noise reduction: -4
+clarity: 2
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2020-05-27__Kodachrome 64,"simulation: classic chrome
+grain: weak, small
+color chrome effect: strong
+color chrome effect blue: weak
+wb: daylight
+wb shift: 2 red, -5 blue
+dynamic range: dr200
+color: 2
+sharpness: 1
+noise reduction: -4
+clarity: 3
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2020-05-11__Kodak Vision3 250D,"simulation: eterna
+grain: strong, small or large
+color chrome effect: strong
+wb: fluorescent 1
+wb shift: -3 red, -1 blue
+dynamic range: dr100
+highlight: 3.0
+shadow: 4.0
+color: 3
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2020-05-10__Kodak Portra 400,"simulation: classic chrome
+grain: strong, small or large
+color chrome effect: strong
+wb: daylight
+wb shift: 4 red, -5 blue
+dynamic range: dr-auto
+highlight: -1.0
+shadow: -1.0
+color: 2
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +2/3 to +1"
+2020-04-28__Kodacolor II 126,"simulation: classic chrome
+grain: strong, small or large
+color chrome effect: strong
+wb: 6300k
+wb shift: 6 red, 3 blue
+dynamic range: dr200
+highlight: -1.0
+shadow: 3.0
+color: -4
+sharpness: -4
+noise reduction: -4
+iso: 3200 to 6400
+exposure compensation: 0 to +2/3"
+2020-04-24__Ilford Delta Push Process,"simulation: monochrome
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr400
+shadow: 3.0
+sharpness: -3
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2020-04-16__Kodak Gold 200,"simulation: classic chrome
+grain: strong, small or large
+wb: daylight
+wb shift: 4 red, -5 blue
+dynamic range: dr-auto
+highlight: -2.0
+shadow: 1.0
+color: 3
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +2/3 to +1 1/3"
+2020-04-12__Polaroid II,"simulation: eterna
+grain: strong, small or large
+color chrome effect: strong
+wb: shade
+wb shift: 4 red, 6 blue
+dynamic range: dr100
+highlight: 4.0
+shadow: 4.0
+color: -3
+sharpness: -4
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to -1"
+2020-04-12__Cyanotype,"simulation: acros
+toning: -9
+grain: strong, small or large
+color chrome effect: strong
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr400
+highlight: 3.0
+shadow: 3.0
+sharpness: -4
+noise reduction: -4
+iso: 160 to 12800
+exposure compensation: +1/3 to +1"
+2020-04-11__Polaroid,"simulation: eterna
+grain: strong, small or large
+wb: auto
+wb shift: 5 red, -5 blue
+dynamic range: dr400
+highlight: 4.0
+shadow: -2.0
+color: -2
+sharpness: -1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: -2/3 to +1"
+2020-04-03__Kodak Porta 160,"simulation: classic chrome
+grain: weak, small or large
+wb: daylight
+wb shift: 4 red, -5 blue
+dynamic range: dr-auto
+highlight: -2.0
+shadow: -2.0
+color: 1
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +2/3 to +1 1/3"
+2020-03-24__Cross Process,"simulation: classic chrome
+grain: weak, small or large
+wb: 7700k
+wb shift: -8 red, -3 blue
+dynamic range: dr400
+highlight: 4.0
+shadow: -1.0
+color: 3
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: -1/3 to -2/3"
+2020-03-23__Jeff Davenport Night,"simulation: pro neg. hi
+grain: weak, small or large
+color chrome effect: strong
+wb: 2650k
+wb shift: -1 red, 4 blue
+dynamic range: dr400
+highlight: 1.0
+color: 2
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to 0"
+2020-03-21__Classic Slide,"simulation: classic chrome
+wb: daylight
+wb shift: -2 red, 3 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: 2.0
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2020-03-16__Monochrome Kodachrome,"simulation: acros+r
+grain: strong, small or large
+wb: auto
+wb shift: 0 red, 9 blue
+dynamic range: dr200
+highlight: 4.0
+shadow: -2.0
+sharpness: 1
+noise reduction: -4
+iso: 3200 to 12800
+exposure compensation: -1/3 to +2/3"
+2020-03-08__Analog Color,"simulation: pro neg. std
+color chrome effect: strong
+wb: daylight
+wb shift: -3 red, 1 blue
+dynamic range: dr200
+highlight: 3.0
+color: -1
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +2/3 to +1 1/3"
+2020-02-26__Fujicolor Pro 400H Overexposed,"simulation: provia
+wb: auto
+wb shift: 2 red, 2 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: 4.0
+color: 1
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1 2/3 to +2 1/3"
+2020-02-11__Dramatic Monochrome,"simulation: monochrome
+color chrome effect: strong
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr200
+highlight: 4.0
+shadow: 4.0
+sharpness: 3
+noise reduction: -4
+iso: 160 to 12800
+exposure compensation: 0 to +2/3"
+2019-11-01__Fujichrome Sensia 100,"simulation: provia
+grain: weak, small or large
+wb: fluorescent 2
+wb shift: -1 red, -3 blue
+dynamic range: dr400
+shadow: 2.0
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2019-10-31__Lomography Color 100,"simulation: velvia
+grain: weak, small or large
+color chrome effect: weak
+wb: shade
+wb shift: -3 red, 7 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: 1.0
+color: -3
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2019-10-26__Color Negative,"simulation: pro neg. hi
+grain: weak, small or large
+wb: fluorescent 1
+wb shift: -2 red, 4 blue
+dynamic range: dr-auto
+highlight: 2.0
+shadow: 2.0
+color: -2
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to +2/3"
+2019-09-21__Elite Chrome Color Fade,"simulation: classic chrome
+grain: strong, small or large
+color chrome effect: strong
+wb: 8300k
+wb shift: 4 red, 8 blue
+dynamic range: dr200
+shadow: 2.0
+color: -2
+sharpness: -4
+noise reduction: 2
+iso: 160 to 6400
+exposure compensation: 0 to -2/3"
+2019-08-24__Warm Contrast,"simulation: pro neg. std
+wb: auto
+wb shift: -2 red, -4 blue
+dynamic range: dr200
+highlight: 1.0
+shadow: 3.0
+color: 4
+sharpness: 1
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2019-08-24__Urban Vintage Chrome,"simulation: classic chrome
+wb: 4300k
+wb shift: -1 red, -3 blue
+dynamic range: dr200
+shadow: 2.0
+color: -4
+noise reduction: -4
+iso: 160 to 3200
+exposure compensation: +1/3 to +2/3"
+2019-08-16__Eterna Low-Contrast,"simulation: eterna
+grain: strong, small or large
+color chrome effect: strong
+wb: 5900k
+wb shift: -3 red, 3 blue
+dynamic range: dr200
+highlight: -2.0
+shadow: -1.0
+color: 4
+sharpness: -4
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2019-08-02__Kodachrome 64,"simulation: classic chrome
+grain: weak, small or large
+color chrome effect: weak
+wb: daylight
+wb shift: 2 red, -5 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: 2.0
+sharpness: 2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +1"
+2019-07-19__Kodacolor,"simulation: classic chrome
+wb: 6300k
+wb shift: -1 red, -4 blue
+dynamic range: dr400
+highlight: -1.0
+shadow: 2.0
+color: -2
+sharpness: 2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +2/3 to + 1-1/3"
+2019-06-22__Redscale,"simulation: astia
+grain: strong, small or large
+color chrome effect: strong
+wb: 10000k
+wb shift: 9 red, 0 blue
+dynamic range: dr200
+highlight: 1.0
+shadow: 2.0
+color: -2
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: -1/3 to +1/3"
+2019-06-21__Faded Monochrome,"simulation: acros
+grain: strong, small or large
+color chrome effect: strong
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr100
+highlight: 4.0
+shadow: 4.0
+sharpness: 2
+noise reduction: -4
+iso: 160 to 12800
+exposure compensation: 0 to 0"
+2019-06-13__Fujicolor 100 Industrial,"simulation: pro neg. std
+grain: weak, small or large
+color chrome effect: weak
+wb: 3200k
+wb shift: 8 red, -8 blue
+dynamic range: dr400
+highlight: 1.0
+shadow: 2.0
+color: 1
+sharpness: 2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2019-06-06__Expired Eterna,"simulation: eterna
+grain: strong, small or large
+color chrome effect: weak
+wb: auto
+wb shift: 5 red, 5 blue
+dynamic range: dr100
+highlight: 4.0
+shadow: 4.0
+color: 4
+sharpness: -2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: -1/3 to +1/3"
+2019-05-29__Ilford HP5 Push Process,"simulation: acros
+grain: strong, small or large
+color chrome effect: strong
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr-auto
+highlight: 3.0
+shadow: 4.0
+sharpness: -2
+noise reduction: -4
+iso: 25600 to 51200
+exposure compensation: +1/3"
+2019-04-25__Velvia,"simulation: velvia
+grain: weak, small or large
+color chrome effect: strong
+wb: auto
+wb shift: 1 red, -1 blue
+dynamic range: dr-auto
+shadow: 1.0
+color: 3
+sharpness: 2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: +1/3 to +2/3"
+2019-04-18__Agfa APX 400,"simulation: acros
+toning: 1
+grain: weak, small or large
+color chrome effect: strong
+wb: auto
+wb shift: 0 red, 0 blue
+dynamic range: dr400
+highlight: -2.0
+shadow: 4.0
+sharpness: 4
+noise reduction: -4
+iso: 160 to 12800
+exposure compensation: +2/3 to +1-1/3"
+2019-04-12__Eterna,"simulation: eterna
+grain: strong, small or large
+color chrome effect: weak
+wb: auto
+wb shift: 5 red, -6 blue
+dynamic range: dr100
+highlight: 4.0
+shadow: 4.0
+color: 4
+sharpness: 2
+noise reduction: -4
+iso: 160 to 6400
+exposure compensation: 0 to 0"

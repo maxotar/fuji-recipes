@@ -5,7 +5,10 @@ URL_INDEX = "https://fujixweekly.com/fujifilm-x-trans-iv-recipes/"
 PATH_INDEX_JSON = "./index.json"
 PATH_MANUAL_JSON = "./manual.json"
 PATH_RECIPES_JSON = "./recipes.json"
-PATH_RECIPES_CSV = "./recipes.csv"
+PATH_RECIPES_LONG_CSV = "./recipes_long.csv"
+PATH_RECIPES_SHORT_CSV = "./recipes_short.csv"
+PATH_RECIPES_TABLE_CSV = "./recipes_table.csv"
+
 HEADERS = {
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Methods": "GET",
