@@ -3,6 +3,7 @@ import re
 import json
 
 import requests
+import bs4
 from bs4 import BeautifulSoup
 
 from settings import *
@@ -79,14 +80,19 @@ assert len(parents)
 # get links and names
 recipes = []
 for parent in parents:
+    assert isinstance(parent, bs4.element.Tag), parent.prettify()
+
     # find link
     el_link = parent.find("a")
+    assert isinstance(el_link, bs4.element.Tag), parent.prettify()
+
     link = el_link.attrs["href"]
     assert isinstance(link, str), parent.prettify()
 
     # find name
     el_name = el_link.find(class_="has-inline-color")
     name = el_name.contents[0]
+
     assert isinstance(name, str), parent.prettify()
 
     recipes.append((name, link))

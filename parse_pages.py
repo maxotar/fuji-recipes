@@ -1,6 +1,5 @@
 from pathlib import Path
 import json
-import re
 
 import bs4
 from bs4 import BeautifulSoup
@@ -30,12 +29,13 @@ def print_page_if_not_exactly_1_recipe(page):
 
 def is_p_a_recipe(p):
     assert isinstance(p, bs4.element.Tag)
+
     html = str(p).lower()
-    if (
-        "<strong>" in html
-        and any(sim in html for sim in SIMULATIONS)
-        and any(prop in html for prop in PROPERTIES)
-    ):
+    count = 0
+    for prop in PROPERTIES:
+        if prop in html:
+            count += 1
+    if "<strong>" in html and any(sim in html for sim in SIMULATIONS) and count >= 2:
         return True
     return False
 
@@ -116,12 +116,25 @@ def page_to_recipe(page):
 
 
 recipes = []
+
+# process html pages
 pages = list(Path(DIR_PAGES).iterdir())
 for page in pages:
+    if page.name in SKIP_PAGES:
+        continue
+
     recipe = page_to_recipe(page)
     assert recipe is not None, page
     recipes.append(recipe)
 
-# write recipe to json file
+# get manual recipes
+with open(PATH_MANUAL_JSON) as jsonfile:
+    manual_recipes = json.load(jsonfile)
+assert len(manual_recipes)
+
+# combine recipes
+recipes.extend(manual_recipes)
+
+# write recipes
 with open(PATH_RECIPES_JSON, "w") as jsonfile:
     json.dump(recipes, jsonfile, indent=2)

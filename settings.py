@@ -3,7 +3,9 @@ NAME_INDEX = "index.html"
 PATH_INDEX = f"./{NAME_INDEX}"
 URL_INDEX = "https://fujixweekly.com/fujifilm-x-trans-iv-recipes/"
 PATH_INDEX_JSON = "./index.json"
+PATH_MANUAL_JSON = "./manual.json"
 PATH_RECIPES_JSON = "./recipes.json"
+PATH_RECIPES_CSV = "./recipes.csv"
 HEADERS = {
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Methods": "GET",
@@ -26,18 +28,29 @@ SIMULATIONS = [
     "sepia",
 ]
 PROPERTIES = [
-    "dynamic range",
-    "d range priority",
-    "highlight",
-    "shadow",
-    "noise reduction",
-    "sharpening",
-    "sharpness",
     "clarity",
-    "grain effect",
+    "color",
     "color chrome effect",
     "color chrome effect blue",
-    "white balance",
-    "iso",
+    "d range priority",
+    "dynamic range",
     "exposure compensation",
+    "grain effect",
+    "highlight",
+    "iso",
+    "noise reduction",
+    "shadow",
+    "sharpening",
+    "sharpness",
+    "toning",
+    "white balance",
+]
+SKIP_PAGES = [
+    "2020-02-25__Vintage Color Fade.html",
+    "2020-07-01__Sepia.html",
+    "2020-02-24__“Bleach Bypass”.html",
+    "2020-02-24__Split-Toned B&W.html",
+    "2021-04-05__Kodachrome II &.html",
+    "2021-06-21__Expired Slide &.html",
+    "2022-10-13__KodaNeg VC & NC.html",
 ]
